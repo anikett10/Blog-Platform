@@ -16,7 +16,7 @@ This repository contains a simple blog platform implemented in Python using the 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/krishporwal14/blog-platform-with-tkinter-and-sqlite.git
+   git clone https://github.com/anikett10/Blog-Platform
 
 2. Run the main.py file to launch the Blog Platform application.
    ```bash
